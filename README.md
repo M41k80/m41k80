@@ -1,6 +1,6 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRldzMydDRramkzd3BoamJnOThqZjhyOWpsN20zcnFkbTZpMnVvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif" width=150px /> Hey! Nice to see you. 👋 Welcome to my page!
 
-![Banner m41k80 Full stack developer](MagdielMora.png)
+![Banner m41k80 developer](Banner_m41k80.png)
 
 
 
