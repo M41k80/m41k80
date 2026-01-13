@@ -48,10 +48,9 @@
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=m41k80&theme=vue-dark&show_icons=true&hide_border=true&cache_seconds=21600)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=m41k80&theme=vue-dark&show_icons=true&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=m41k80&theme=vue-dark&hide_border=true&cache_seconds=21600)
 
-![Streak](https://streak-stats.demolab.com?user=m41k80&theme=vue-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m41k80&theme=vue-dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m41k80&theme=vue-dark&hide_border=true&layout=compact&cache_seconds=21600)
 
