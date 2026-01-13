@@ -49,9 +49,9 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-![m41k80's Stats](https://github-readme-stats.vercel.app/api?username=m41k80&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=m41k80&theme=vue-dark&show_icons=true&hide_border=true)
 
-![m41k80's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m41k80&theme=vue-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=m41k80&theme=vue-dark&hide_border=true)
 
-![m41k80's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m41k80&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m41k80&theme=vue-dark&hide_border=true&layout=compact)
 
